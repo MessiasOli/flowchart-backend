@@ -1,0 +1,8 @@
+{
+  "DatabaseSettings": {
+    "DBEngine": "postgresql"
+  },
+  "ConnectionStrings": {
+    "PostgreSQLConnection": "Server=127.0.0.1;Port=5433;Database=AgriculturalPlan;User Id=postgres;Password=pentabr0610;",
+  }
+}
